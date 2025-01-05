@@ -14,7 +14,7 @@ function Footer() {
                         <div className="mb-6">
                            <a href="index.html">
                               <img
-                                 src="/public/logo.png"
+                                 src="/logo.png"
                                  alt="logo"
                                  className="w-32"
                               />

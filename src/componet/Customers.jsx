@@ -17,7 +17,7 @@ function Customers() {
                   <div className="sm:w-1/2 lg:w-1/4 px-4 mb-8">
                      <div className="flex items-center gap-3 text-center">
                         <div className=" mb-4">
-                           <img src="/public/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
+                           <img src="/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
                         </div>
                               <p className="font-semibold">Mahnoor Qaiser</p>
                      </div>
@@ -27,7 +27,7 @@ function Customers() {
                   <div className="sm:w-1/2 lg:w-1/4 px-4 mb-8">
                      <div className="flex items-center gap-3 text-center">
                         <div className=" mb-4">
-                           <img src="/public/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
+                           <img src="/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
                         </div>
                         <p className="font-semibold">Mahnoor Qaiser</p>
                      </div>
@@ -37,7 +37,7 @@ function Customers() {
                   <div className="sm:w-1/2 lg:w-1/4 px-4 mb-8">
                      <div className="flex items-center gap-3 text-center">
                         <div className=" mb-4">
-                           <img src="/public/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
+                           <img src="/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
                         </div>
                         <p className="font-semibold">Mahnoor Qaiser</p>
                      </div>
@@ -47,7 +47,7 @@ function Customers() {
                   <div className="sm:w-1/2 lg:w-1/4 px-4 mb-8">
                      <div className="flex items-center gap-3 text-center">
                         <div className=" mb-4">
-                           <img src="/public/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
+                           <img src="/hamza.png" alt="Mahnoor Qaiser" className="mx-auto rounded-full w-16" />
                         </div>
                         <p className="font-semibold">Mahnoor Qaiser</p>
                      </div>

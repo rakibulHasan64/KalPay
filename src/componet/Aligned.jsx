@@ -9,7 +9,7 @@ function Aligned() {
                <div className="lg:w-1/2 w-full order-2 lg:order-1 mb-8 lg:mb-0">
                   <div className="flex justify-center lg:justify-end">
                      <img
-                        src="/public/why-img.png"
+                        src="/why-img.png"
                         alt="KalPay"
                         className="max-w-full w-64 sm:w-80 lg:w-96"
                      />
@@ -29,7 +29,7 @@ function Aligned() {
                      <ul className="list-none space-y-4">
                         <li className="flex items-center">
                            <img
-                              src="/public/icon-sm-1.png"
+                              src="/icon-sm-1.png"
                               alt="icon"
                               className="mr-4 w-6 sm:w-8"
                            />
@@ -39,7 +39,7 @@ function Aligned() {
                         </li>
                         <li className="flex items-center">
                            <img
-                              src="/public/icon-sm-1.png"
+                              src="/icon-sm-1.png"
                               alt="icon"
                               className="mr-4 w-6 sm:w-8"
                            />
@@ -49,7 +49,7 @@ function Aligned() {
                         </li>
                         <li className="flex items-center">
                            <img
-                              src="/public/icon-sm-1.png"
+                              src="/icon-sm-1.png"
                               alt="icon"
                               className="mr-4 w-6 sm:w-8"
                            />

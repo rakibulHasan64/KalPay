@@ -16,7 +16,7 @@ function Navbar() {
                {/* Logo */}
                <div className="logo">
                   <a href="index.html">
-                     <img src="/public/logo.png" alt="logo" className="w-32" />
+                     <img src="/logo.png" alt="logo" className="w-32" />
                   </a>
                </div>
 

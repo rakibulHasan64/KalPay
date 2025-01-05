@@ -37,7 +37,7 @@ function Banner() {
                   <div className="w-full lg:w-1/2">
                      <div className="flex justify-center">
                         <img
-                           src="/public/banner-mobile.png"
+                           src="/banner-mobile.png"
                            alt="Banner"
                            className="w-full max-w-md"
                         />
